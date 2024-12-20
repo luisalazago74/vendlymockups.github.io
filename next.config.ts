@@ -9,6 +9,5 @@ const nextConfig = {
   assetPrefix: isProd ? '/vendlymockups.github.io' : '',
   basePath: isProd ? '/vendlymockups.github.io' : '',
   output: 'export'
-};
-
+}
 export default nextConfig;

@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out -r https://github.com/luisalazago74/vendlymockups.github.io.git"
+    "deploy": "gh-pages -d out --nojekyll -r https://github.com/luisalazago74/vendlymockups.github.io.git"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
