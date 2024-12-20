@@ -1,15 +1,22 @@
 {
   "name": "mockups-frontend",
+<<<<<<< HEAD
   "homepage": "https://luisalazago74.github.io/vendlymockups.github.io/",
+=======
+>>>>>>> b2d8d6c6392b9791ced04fc9b1bc911ac3c24fdc
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+<<<<<<< HEAD
     "lint": "next lint",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out -r https://github.com/luisalazago74/vendlymockups.github.io.git"
+=======
+    "lint": "next lint"
+>>>>>>> b2d8d6c6392b9791ced04fc9b1bc911ac3c24fdc
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
@@ -29,7 +36,10 @@
     "autoprefixer": "^10.4.20",
     "eslint": "^9",
     "eslint-config-next": "15.1.2",
+<<<<<<< HEAD
     "gh-pages": "^6.2.0",
+=======
+>>>>>>> b2d8d6c6392b9791ced04fc9b1bc911ac3c24fdc
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
